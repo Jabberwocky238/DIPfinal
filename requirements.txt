@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pandas
+jupyter
+opencv-python
+timm-0.9.12
